@@ -1,1 +1,1 @@
-include ':app', ':callback'
+include ':app', ':callback', ':activity_service'
